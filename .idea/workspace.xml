@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="488f8adb-0639-4c2d-aaf2-9cd71afb3be1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/ContactUsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/LoginFunctionalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SearchFunctionalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/ShoppingCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SignUpFunctionalityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ContactUsFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/LoginFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SearchFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ShoppingCartFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SignUpFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/TopMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/resources/org/testng/annotations/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/EcommerceTestRunnerFile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/META-INF/WatchOutfittersAutomation.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/org/testng/annotations/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_object_test/ContactUsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_object_test/LoginFunctionalityTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_object_test/SearchFunctionalityTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_object_test/SignUpFunctionalityTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_object_test/TopMenuTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_objects/ContactUsFunctionality.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_objects/LoginFunctionality.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_objects/SearchFunctionality.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_objects/SignUpFunctionality.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WatchOutfittersAutomation/target/test-classes/page_objects/TopMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generic/target/classes/base/BrowserDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/generic/target/" />
+    <ignored path="$PROJECT_DIR$/WatchOutfittersAutomation/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" selection-start-line="18" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/ShoppingCartTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SignUpFunctionalityTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ShoppingCartFunctionality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SignUpFunctionality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-682">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/TopMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SearchFunctionality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ContactUsFunctionality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SearchFunctionalityTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/LoginFunctionality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/pom.xml" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SearchFunctionality.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SearchFunctionalityTest.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SignUpFunctionality.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/LoginFunctionality.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/LoginFunctionalityTest.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/TopMenu.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/TopMenuTest.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/ContactUsTest.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SignUpFunctionalityTest.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ContactUsFunctionality.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/shoppingCartTest.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/shoppingCartTest.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ShoppingCartFunctionality.java" />
+        <option value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/ShoppingCartTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="WatchOutfittersAutomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="WatchOutfittersAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="WatchOutfittersAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="WatchOutfittersAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="WatchOutfittersAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="page_object_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="WatchOutfittersAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="page_objects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyFramework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFramework" type="462c0819:PsiDirectoryNode" />
+              <item name="WatchOutfittersAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\IdeaProjects\MyFramework\WatchOutfittersAutomation\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\IdeaProjects\MyFramework\WatchOutfittersAutomation\src\test" />
+      <recent name="C:\Users\Owner\IdeaProjects\MyFramework\generic\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml">
+    <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WatchOutfittersAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactUsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WatchOutfittersAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_test" />
+      <option name="MAIN_CLASS_NAME" value="page_object_test.ContactUsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopMenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WatchOutfittersAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_test" />
+      <option name="MAIN_CLASS_NAME" value="page_object_test.TopMenuTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopMenuTest.blogLinkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WatchOutfittersAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_test" />
+      <option name="MAIN_CLASS_NAME" value="page_object_test.TopMenuTest" />
+      <option name="METHOD_NAME" value="blogLinkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopMenuTest.brandLinkTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WatchOutfittersAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object_test" />
+      <option name="MAIN_CLASS_NAME" value="page_object_test.TopMenuTest" />
+      <option name="METHOD_NAME" value="brandLinkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" />
+        <item itemvalue="TestNG.TopMenuTest" />
+        <item itemvalue="TestNG.TopMenuTest.blogLinkTest" />
+        <item itemvalue="TestNG.ContactUsTest" />
+        <item itemvalue="TestNG.TopMenuTest.brandLinkTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="488f8adb-0639-4c2d-aaf2-9cd71afb3be1" name="Default Changelist" comment="" />
+      <created>1580174422199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580174422199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 13h 37m 41s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 13h 51m 46s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 13h 56m 35s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 13h 59m 55s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 14h 03m 58s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 14h 40m 57s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 14h 43m 37s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 14h 46m 12s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.01 at 14h 46m 47s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Owner_IdeaProjects_MyFramework_WatchOutfittersAutomation_src_test_resources_EcommerceTestRunnerFile_xml - 2020.02.02 at 18h 45m 21s.xml">
+      <configuration name="C:/Users/Owner/IdeaProjects/MyFramework/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22684564" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2592068" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32152975" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22684564" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2592068" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32152975" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2180">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/BrowserDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/TopMenuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/ContactUsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/LoginFunctionalityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SearchFunctionalityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/SignUpFunctionalityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/LoginFunctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SearchFunctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/SignUpFunctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-682">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/TopMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/resources/EcommerceTestRunnerFile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" selection-start-line="18" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ShoppingCartFunctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_object_test/ShoppingCartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WatchOutfittersAutomation/src/test/java/page_objects/ContactUsFunctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WatchOutfittersAutomation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Watch Outfitters Automation" parallel="false">
+    <!--parallel="false"-->
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="windows"/>
+    <!-- <parameter name="os_version" value="Mojave"/>-->
+    <parameter name="browserVersion" value="79.0.3945.117"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="url" value="https://www.watchoutfitters.com/"/>
+
+
+    <test name="Watch Outfitters">
+        <classes>
+            <class name="page_object_test.SearchFunctionalityTest"/>
+<!--
+            <class name="page_object_test.SignUpFunctionalityTest"/>
+-->
+            <class name="page_object_test.LoginFunctionalityTest"/>
+            <class name="page_object_test.TopMenuTest"/>
+            <class name="page_object_test.ContactUsTest"/>
+           <!-- <class name="page_object_test.ShoppingCartTest"/>-->
+        </classes>
+    </test>
+</suite>
